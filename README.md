@@ -1,4 +1,7 @@
 # Bouncy Year
+### The terminal screensaver.
+
+#
 
 This program will run on fullscreen (so make it huge first). Command:
 ```bash
