@@ -2,7 +2,6 @@
 ### The nostalgic terminal screensaver.
 
 #
-This program will run on fullscreen (so make it huge first). 
 
 #### Usage
 ```bash
@@ -12,7 +11,11 @@ or change it to this one if you need it (surprise surprise)
 ```bash
 make 2021 work
 ```
-#### Happy holidays
+#### how to run it
+This program will run on fullscreen (so make it huge first). 
+
+
+#### New Year
 Stay safe everyone, be kind to others and enjoy our artsy program :)
 
 ![](ArtsyContest/satisfying.gif)
