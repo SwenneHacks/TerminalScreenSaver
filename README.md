@@ -1,6 +1,6 @@
 # TerminalScreenSaver
 
-This program will run on fullscreen (so make it huge first) by just using the command
+This program will run on fullscreen (so make it huge first). Command:
 ```bash
 make longest year ever 
 ```
