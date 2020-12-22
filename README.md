@@ -1,5 +1,15 @@
 # TerminalScreenSaver
 
-This program will run on fullscreen (so make it huge first) by just using the command 'make longest year ever' and change it to 'make 2021 work'. Stay safe everyone, be kind to others and enjoy our termscreensaver :)
+This program will run on fullscreen (so make it huge first). Command:
+```bash
+make longest year ever 
+```
+or change it to this one if you need it (surprise surprise)
+```bash
+make 2021 work
+```
+Stay safe everyone, be kind to others and enjoy our artsy program :)
 
-![](ArtsyContes/satisfying.gif)
+![](ArtsyContest/satisfying.gif)
+
+Credits to Naomi Sterk for this amazingly fun project.
