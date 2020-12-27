@@ -22,4 +22,4 @@ Stay safe everyone, be kind to others and enjoy our artsy program :)
 
 #### Collaboration:
 
-Credits to Naomi Sterk for this amazingly fun project!
+All credits to Naomi Sterk for working with me on this amazingly fun project!
