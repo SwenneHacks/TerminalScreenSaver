@@ -1,7 +1,5 @@
 # Bouncy Year
 ### The nostalgic terminal screensaver.
-Stay safe everyone, be kind to others and enjoy our artsy program :)
-
 
 #### Usage:
 ```bash
