@@ -1,5 +1,5 @@
 # Bouncy Year
-### The nostalgic terminal screensaver.
+## The nostalgic terminal screensaver.
 
 #### Usage:
 ```bash
