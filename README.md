@@ -1,6 +1,6 @@
 # Bouncy Year
 ### The nostalgic terminal screensaver.
-
+Stay safe everyone, be kind to others and enjoy our artsy program :)
 
 
 #### Usage:
@@ -13,10 +13,6 @@ make 2021 work
 ```
 #### how to run it:
 This program will run on fullscreen (so make it huge first). 
-
-
-#### New Year
-Stay safe everyone, be kind to others and enjoy our artsy program :)
 
 ![](ArtsyContest/satisfying.gif)
 
