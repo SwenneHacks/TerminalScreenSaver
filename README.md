@@ -1,7 +1,7 @@
 # Bouncy Year
-### The nostalgic terminal screensaver.
+The nostalgic terminal screensaver.
 
-#### Usage:
+Usage:
 ```bash
 make longest year ever 
 ```
